@@ -54,7 +54,7 @@ export default function Home() {
       </main>
 
       <footer className="text-sm text-slate-500 px-6 text-center py-8 border border-t border-slate-300 bg-white">
-        An OpenAI API based project by Jinson Abraham
+        An OpenAI API based project by Jinson Abraham.
       </footer>
     </div>
   );
